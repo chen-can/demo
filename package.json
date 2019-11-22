@@ -17,7 +17,7 @@
     "dayjs": "^1.8.15",
     "fastclick": "^1.0.6",
     "postcss-pxtorem": "^4.0.1",
-    "vant": "2.0.6",
+    "vant": "2.1.8",
     "vconsole": "^3.2.0",
     "vee-validate": "^2.1.5",
     "vue": "^2.5.21",
